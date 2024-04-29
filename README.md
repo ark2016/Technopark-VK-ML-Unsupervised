@@ -26,3 +26,6 @@ from scipy import sparse
 
 train = sparse.load_npz("train.npz")
 ```
+
+# Решение
+Решение находиться в ветке ark
